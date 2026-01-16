@@ -1,0 +1,10 @@
+Project Insights: Student Enrollment & Performance Analysis
+Top Revenue Department: The "General Stu Medicine" department generates the highest total tuition revenue. It is the most financially significant department for the institution.
+
+Academic Excellence: Postgraduate and PhD students maintain a higher average final grade (above 75%) compared to Undergraduate students. This suggests higher academic performance in advanced levels.
+
+Peak Enrollment Season: The majority of student enrollments happen during the "Autumn" semester. This indicates that the start of the academic year is the busiest period for admissions.
+
+Credit Cost Analysis: The "Engineering" and "Medicine" departments have the highest "Fee Per Credit." This shows that technical and medical courses are more expensive to provide than Arts or Sciences.
+
+Student Volume vs. Revenue: While the "Arts and Humanities" faculty has a high number of students, their total tuition contribution is lower than that of the Medicine department due to lower individual fees.
